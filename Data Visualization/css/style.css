@@ -1,0 +1,48 @@
+
+
+p {color:$blue;}
+  .roboto-<uniquifier> {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+h1 {color:#000000}
+  .montserrat-<uniquifier> {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+background-color: #ff0000;
+width: 70%;
+padding: 50px;
+text-align: center;
+}
+
+a {
+  color:#F7210A;
+}
+a:hover {
+  color: #EFCE0D;
+}
+.subhead {
+  color: EF1B0D;
+  font-weight: 900;
+  line-height: 4rem;
+}
+
+.leftimage {
+  margin-right: 50px;
+}
+
+.trgrey {
+  background-color: #F6CB14;
+}
+
+table, th, td {
+  border: 1px solid #ff0000;
+  padding: 10px;
+}
